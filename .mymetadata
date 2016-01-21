@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LinLi_Neighbor"
+  id="myeclipse.1453173763802"
+  context-root="/TTT"
+  j2ee-spec="5.0"
+  archive="LinLi_Neighbor.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+
